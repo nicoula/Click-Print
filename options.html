@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Check & Provide your div name you would like to print!</title>
+		<script src="options.js"></script>
+		<style>
+			body {
+				margin: 0px;				
+			}
+			#info {
+				padding-top: 20px;
+				margin-bottom: 20px;
+				text-align: center;
+				font-size: large;
+			}
+			#my_box {
+				text-align: center;
+			}
+			#input_box {
+				margin: 0 auto;
+				text-align: center;
+			}
+			#my_div_input {
+				text-align: center;
+			}
+			#part_one {
+				height: 300px;
+				background-color: #6586FA;
+			}
+			#part_two {
+				background-color: #FFFFFF;
+				text-align: center;
+				font-size: large;
+			}
+		</style>
+    </head>
+	
+	<body>
+		<div id="part_one">
+			<div id="info">
+				Give the div name you would like to print when you click on the extension button
+			</div>
+			
+			<div id="my_div_input">
+				<input type="text" style="color:#888;" size="60" id="input_box" name="input_box"/><br />
+				<button id="button1">Apply</button>
+			</div>
+		</div>
+		
+		<div id="part_two">
+			<div id="old_info">
+				The current div name selected is:<br /><br /><br /><br /><br /> 
+				<span class="my_div_name"></span>
+			</div>
+		</div>
+		
+	</body>
+</html>

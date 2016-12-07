@@ -21,7 +21,6 @@
       "16": "img/print_16x16.png",
       "48": "img/print_48x48.png"
    },
-   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjZvG2NxkXt9P+JxxbureT+p9PAd3dyLTHTyCEubcFqe1adMJg560yRLI1NNC/XQXUhWwP9sQY+5i5XwrWDZp9S/tiUcqEwYeHV26Av1//llWzy8whZbvKwaam27oW8jn8diC/AzSrt8Nwir3NJ9GWoLP4ULnflPNySIheOgp/FKZzsp1j0p5m/wwb6VC4qJKxAi/bTlzAkqlFh4wf9g3U1me7X8xWB6YHT4tyyJpEfkZWkI8juwrLV6n86D85VmbMesTVdzzMVWgxIjHLK7pFFz0i1I+/GjxTpKnHt+2UaskzB+IZ78c8fmV7IXTyVqc1U5a/8UWz37+9pBYYOCukQIDAQAB",
    "manifest_version": 2,
    "name": "Click & Print",
    "options_page": "options.html",
